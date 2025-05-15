@@ -98,7 +98,6 @@ setuptools==78.1.0
 six==1.17.0
 smmap==5.0.2
 soupsieve==2.7
--e git+https://github.com/AshleighSham/DF_capstone.git@aedebe745ce9ff8c7e97025fc8a34e9414b1ff26#egg=spotify_etl_pipeline
 SQLAlchemy==2.0.40
 sqlfluff==3.3.1
 stack-data==0.6.3
